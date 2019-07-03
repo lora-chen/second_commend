@@ -1,3 +1,7 @@
+This is the code from another (https://pdfs.semanticscholar.org/5bdf/0970034d0bb8a218c06ba3f2ddf97d29103d.pdf) 
+And here I do the comment job for it
+
+
 # STRNN
 [Predicting the Next Location: A Recurrent Model with Spatial and Temporal Contexts](https://pdfs.semanticscholar.org/5bdf/0970034d0bb8a218c06ba3f2ddf97d29103d.pdf)  
 Qiang Liu, Shu Wu, Liang Wang, Tieniu Tan (AAAI-16)
